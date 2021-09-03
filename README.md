@@ -1,3 +1,3 @@
 Instructions:
 
-Python must be installed on your computer.
+Python must be installed on your computer
